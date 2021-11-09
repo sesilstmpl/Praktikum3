@@ -1,10 +1,10 @@
 print("Program Bilangan Acak yang Lebih dari 0.5")
 
-from random import random
+import random
 n = int(input("Masukan jumlah N = "))
-for i in range (n):
+for a in range (n):
     while 1:
-        n = random()
+        n = random.random()
         if n < 0.5:
             break
     print (n)
