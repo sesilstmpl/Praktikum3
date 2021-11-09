@@ -6,7 +6,7 @@ Scriptnya seperti ini
 ![Gambar 1](gambar/ss1.png)
 
 Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 dan bilangan kedua adalah 2.
-1[Gambar 2](gambar/ss2.png)
+![Gambar 2](gambar/ss2.png)
 
 
 Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan Pertama Lebih Besar", Namun Jika bilangan kedua lebih besar dari bilangan pertama, maka hasilnya "Bilangan Kedua Lebih Besar"
