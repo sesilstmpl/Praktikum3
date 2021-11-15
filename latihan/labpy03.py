@@ -4,13 +4,13 @@ for x in range(1,9):
         a = modal*0
         print("Laba Bulan Ke-",x," : ",a)
     if(x>=3 and x<=4):
-        b = modal*0.1
+        b = modal*0.01
         print("Laba Bulan Ke-",x," : ",b)
     if(x>=5 and x<=7):
-        c = modal*0.5
+        c = modal*0.05
         print("Laba Bulan Ke-",x," : ",c)
     if(x==8):
-        d = modal*0.2
+        d = modal*0.02
         print("Laba Bulan Ke-",x," : ",d)
 total=a+a+b+b+c+c+c+d
-print("Total : ",total)
+print("Total laba adalah : ",total)

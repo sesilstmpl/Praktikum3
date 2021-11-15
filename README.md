@@ -73,13 +73,19 @@ Akan memunculkan angka random kurang dari 0.5 sebanyak 5 data
 ## labpy03.2 Menentukan Bilangan Terbesar dari N buah data
 
 Scriptnya seperti ini
+
 ![Gambar 14](gambar/ss15.png)
-Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri
-![Gambar 15](gambar/ss16.png)
+
 max = 0 adalah perintah yang digunakan untuk menampilkan nilai maximal yaitu 0 lalu gunakan break untuk mengakhiri pengulangan. jadi ketika menginput 0 maka pengulangan akan selesai.
+Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Maka outputnya akan muncul seperti ini : 
+![Gambar 15](gambar/ss16.png)
+
 
 ## labpy03 Menentukan Total Laba
+Masukkan scriptnya seperti ini :
+modal dikali persen keuntungan akan menghasilkan laba. lalu totalkan laba setiap bulannya dengan menjumlahkan setiap laba
 ![Gambar 16](gambar/ss17.png)
+maka hasilnya akan seperti ini 
 ![Gambar 17](gambar/ss18.png)
 
 
