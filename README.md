@@ -100,6 +100,7 @@ Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Ma
 Masukkan scriptnya seperti ini :
 
 ![Gambar 16](gambar/ss17.png)
+
 modal dikali persen keuntungan akan menghasilkan laba. lalu totalkan laba setiap bulannya dengan menjumlahkan setiap laba
 
 maka hasilnya akan seperti ini 
