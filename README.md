@@ -3,9 +3,11 @@
 ## Latihan 1, Menentukan Bilangan Terbesar dari Dua Buah Bilangan
 
 Scriptnya seperti ini
+
 ![Gambar 1](gambar/ss1.png)
 
 Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 dan bilangan kedua adalah 2.
+
 ![Gambar 2](gambar/ss2.png)
 
 
@@ -14,9 +16,11 @@ Karena 2 lebih besar dari 1, berarti bilangan kedua     lebih besar dari bilanga
 
 ## Latihan 2 , Mengurutkan Data Mulai dari yang Terkecil
 Scriptnya seperti ini
+
 ![Gambar 3](gambar/ss3.png)
 
 Lalu masukkan 3 bilangan misalnya 10, 3 dan 5
+
 ![Gambar 4](gambar/ss4.png)
 
 sorted digunakan untuk mengurutkan data dari yang terkecil hingga yang terbesar
@@ -24,9 +28,11 @@ sorted digunakan untuk mengurutkan data dari yang terkecil hingga yang terbesar
 ## Latihan 1.2 , Program Pengulangan Bertingkat
 
 Scriptnya seperti ini
+
 ![Gambar 5](gambar/ss6.png)
 
 Maka outputnya akan muncul seperti ini
+
 ![Gambar 6](gambar/ss7.png)
 
 Angka yang muncul akan sesuai dengan range yang diberikan, misalnya range (1,11) maka akan muncul [1,2,3,4,5,6,7,8,9,10], dan seterusnya.
@@ -34,10 +40,12 @@ Angka yang muncul akan sesuai dengan range yang diberikan, misalnya range (1,11)
 ## Latihan 2.1 , Menampilkan Bilangan Acak Kurang Dari 0.5
 
 Script nya seperti ini 
+
 ![Gambar 7](gambar/ss8.png)
 
 Misalnya kita masukkan jumlah N nya adalah 5
 Dan outputnya akan seperti ini
+
 ![Gambar 8](gambar/ss9.png)
 
 Akan memunculkan angka random kurang dari 0.5 sebanyak 5 data
@@ -47,25 +55,31 @@ Akan memunculkan angka random kurang dari 0.5 sebanyak 5 data
 ### Program 
 
 Scriptnya seperti ini :
+
 ![Gambar 9](gambar/ss10.png)
 
 Misalnya kita masukkan bilangan pertama adalah 1, bilangan kedua adalah 2 dan bilangan ketiga adalah 3
 Maka outputnya akan muncul seperti ini
+
 ![Gambar 10](gambar/ss11.png)
+
 
 Karena bilangan ketiga lebih besar dari bilangan pertama dan bilangan kedua, maka hasilnya "Bilangan yang terbesar adalah bilangan ketiga"
 
 ### Flowchart
+Berikut adalah flowchart mencari bilangan terbesar dari 3 bilangan
 
 ![Gambar 11](gambar/ss12.png)
 
 ## labpy03.1 , Menampilkan bilangan acak kurang dari 0.5
 
 Scriptnya seperti ini :
+
 ![Gambar 12](gambar/ss13.png)
 
 Misalnya kita masukkan jumlah N adalah 5
 Maka outputnya akan seperti ini :
+
 ![Gambar 13](gambar/ss14.png)
 
 Akan memunculkan angka random kurang dari 0.5 sebanyak 5 data
@@ -77,15 +91,18 @@ Scriptnya seperti ini
 ![Gambar 14](gambar/ss15.png)
 
 max = 0 adalah perintah yang digunakan untuk menampilkan nilai maximal yaitu 0 lalu gunakan break untuk mengakhiri pengulangan. jadi ketika menginput 0 maka pengulangan akan selesai.
-Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Maka outputnya akan muncul seperti ini : 
+Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Maka outputnya akan muncul seperti ini :
+
 ![Gambar 15](gambar/ss16.png)
 
 
 ## labpy03 Menentukan Total Laba
 Masukkan scriptnya seperti ini :
 modal dikali persen keuntungan akan menghasilkan laba. lalu totalkan laba setiap bulannya dengan menjumlahkan setiap laba
+
 ![Gambar 16](gambar/ss17.png)
 maka hasilnya akan seperti ini 
+
 ![Gambar 17](gambar/ss18.png)
 
 
