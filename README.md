@@ -98,10 +98,12 @@ Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Ma
 
 ## labpy03 Menentukan Total Laba
 Masukkan scriptnya seperti ini :
-modal dikali persen keuntungan akan menghasilkan laba. lalu totalkan laba setiap bulannya dengan menjumlahkan setiap laba
 
 ![Gambar 16](gambar/ss17.png)
+modal dikali persen keuntungan akan menghasilkan laba. lalu totalkan laba setiap bulannya dengan menjumlahkan setiap laba
+
 maka hasilnya akan seperti ini 
+
 
 ![Gambar 17](gambar/ss18.png)
 
