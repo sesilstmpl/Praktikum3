@@ -58,6 +58,35 @@ Scriptnya seperti ini :
 
 ![Gambar 18](gambar/ss19.png)
 
+Lalu isi input sesuai yang diminta, maka outputnya akan seperti ini :
+
+![Gambar 19](gambar/ss20.png)
+
+ini adalah program menentukan tugas akhir. jika totalnya diatas 60 maka hasilnya lulus namun jika nilainya dibawah 60 maka hasilnya tidak lulus.
+
+### Latihan 2, Menampilkan Status Gaji Karyawan
+
+Scriptnya seperti ini :
+
+![Gambar 20](gambar/ss21.png)
+
+Lalu isi input sesuai yang diminta, maa outputnya akan seperti ini :
+
+![Gambar 21](gambar/ss22.png)
+
+### Latihan 3, Membandingkan 3 input bilangan
+
+Scriprnya seperti ini :
+
+![Gambar 22](gambar/ss23.png)
+
+Masukkan nilai a, b, dan c. jika penjumlahan dari 2 bilangan sama dengan bilangan lainnya maka hasilnya adalah benar
+
+lalu outputnya seperti ini :
+
+![Gambar 23](gambar/ss24.png)
+
+
 ### Program 
 
 Scriptnya seperti ini :
