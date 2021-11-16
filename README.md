@@ -31,11 +31,11 @@ Scriptnya seperti ini
 
 ![Gambar 5](gambar/ss6.png)
 
+penggunaan separator "\t' untuk menjadi pemisah antar angka. 
+
 Maka outputnya akan muncul seperti ini
 
 ![Gambar 6](gambar/ss7.png)
-
-Angka yang muncul akan sesuai dengan range yang diberikan, misalnya range (1,11) maka akan muncul [1,2,3,4,5,6,7,8,9,10], dan seterusnya.
 
 ## Latihan 2.1 , Menampilkan Bilangan Acak Kurang Dari 0.5
 
