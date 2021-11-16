@@ -52,6 +52,12 @@ Akan memunculkan angka random kurang dari 0.5 sebanyak 5 data
 
 ## labspy02 , Menentukan Bilangan Terbesar dari 3 Bilangan
 
+### Latihan 1, Program Menentukan Nilai Akhir
+
+Scriptnya seperti ini :
+
+![Gambar 18](gambar/ss19.png)
+
 ### Program 
 
 Scriptnya seperti ini :
